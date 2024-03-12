@@ -2,7 +2,6 @@
 Date:
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
-
 ### ALGORITHM:
 1.Import necessary libraries (NumPy, Matplotlib)
 
@@ -18,8 +17,6 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
 Developed By: D.Amarnath REddy
 Reg.No:212221240012
 ```
-
-
 ### A - LINEAR TREND ESTIMATION
 ```
 import numpy as np
